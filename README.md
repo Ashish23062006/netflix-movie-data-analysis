@@ -24,7 +24,7 @@ This project is a complete exploratory data analysis (EDA) of Netflix movie data
 
 ## 👨‍💻 Author
 **Ashish Kumar Regar**  
-3rd Year B.Tech CSE Student  
+4th Year B.Tech CSE Student  
 [LinkedIn Profile](https://www.linkedin.com/in/ashish-kumar-regar)
 
 ---
